@@ -1,4 +1,6 @@
-# ngx-contextmenu
+# ngx-contextmenu 
+
+# Why you forked this repos: Ans - I want to full screen window. Is there i this project.
 
 A context menu built with Angular (10) inspired by [ui.bootstrap.contextMenu](https://github.com/Templarian/ui.bootstrap.contextMenu).  Bootstrap classes are included in the markup, but there is no explicit dependency on Bootstrap. [Demo](https://isaacplmann.github.io/ngx-contextmenu/) [Stackblitz example](https://stackblitz.com/edit/ngx-contextmenu-example)
 
